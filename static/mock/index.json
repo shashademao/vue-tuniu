@@ -1,0 +1,346 @@
+{
+  "ret": true,
+  "data": {
+    "address": "广州",
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://m2.tuniucdn.com/fb2/t1/G5/M00/B8/F7/Cii-s1tntD6IMSWBAAKMN4NmiQoAALbEQMw404AAoxP42_w640_h0_c0_t0_w640_h0_c0_t0_w640_h0_c0_t0.jpeg"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://m2.tuniucdn.com/fb2/t1/G5/M00/7E/05/Cii-s1tIO_2IKcLMAAJekmx8a4EAAKJBwFdwhkAAl6q14_w640_h0_c0_t0_w640_h0_c0_t0_w640_h0_c0_t0.jpeg"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/81/20/Cii-TFj0m3WII6uwAAFUmD33YmUAAJQzwN-ED8AAVSw27_w640_h0_c0_t0_w640_h0_c0_t0_w640_h0_c0_t0.jpeg"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://m1.tuniucdn.com/fb2/t1/G5/M00/AA/23/Cii-s1tgAm2IDW-9AAJDMBPDI2UAALHhgG0-KcAAkNI50_w640_h0_c0_t0_w640_h0_c0_t0_w640_h0_c0_t0.jpeg"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://m3.tuniucdn.com/fb2/t1/G5/M00/AC/B8/Cii-slthTCeIMOEXAAWn32k9GFkAALLAQHpQ0oABaf343_w640_h0_c0_t0_w640_h0_c0_t0_w640_h0_c0_t0.jpeg"
+      }
+
+    ],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/94/A9/Cii-T1hmH2yIURNDAAAJyfc0kUYAAGMPAP_79EAAAnh702_w120_h120_c1_t0.png",
+      "desc": "全球WiFi"
+    }, {
+      "id": "0002",
+      "imgUrl": "https://m3.tuniucdn.com/fb2/t1/G5/M00/BA/32/Cii-slrQDBuIDwW6AAAHDbmII-4AAFiJQJLm-kAAAcl406_w120_h120_c1_t0.png",
+      "desc": "一日游"
+    }, {
+      "id": "0003",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/32/38/Cii_Llli3baIed2wAAACgMRu23IAADA0wP__WgAAAKY669_w120_h120_c1_t0.png",
+      "desc": "婚纱旅拍"
+    }, {
+      "id": "0004",
+      "imgUrl": "https://m3.tuniucdn.com/fb2/t1/G4/M00/2B/43/Cii_J1myMKOIa59DAAAEk3iRAL8AAA1twP_-1UAAASr274_w120_h120_c1_t0.png",
+      "desc": "主题游"
+    }, {
+      "id": "0005",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G1/M00/56/A5/Cii-U1iFo6eIaZs0AAAGZNY4WVMAAHINQP_-V8AAAah882_w120_h120_c1_t0.png",
+      "desc": "目的地大全"
+    }, {
+      "id": "0006",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G1/M00/84/64/Cii-U1ir_DyIWjOQAAAMzJwlIzUAAHmAQP_8xsAAAzl573_w120_h120_c1_t0.png",
+      "desc": "蜜月游"
+    }, {
+      "id": "0007",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G1/M00/56/7D/Cii9EViFfe2IVXYOAAAJ0Vcji84AAHIGQP_9XMAAAqN711_w120_h120_c1_t0.png",
+      "desc": "海岛游"
+    }, {
+      "id": "0008",
+      "imgUrl": "https://m4.tuniucdn.com/fb2/t1/G5/M00/B5/4B/Cii-tFrMg4CINw_XAAAFOVqbjXkAAFafgP_-qYAAAVa328_w120_h120_c1_t0.png",
+      "desc": "当季热玩"
+    }, {
+      "id": "0009",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/F3/1C/Cii-T1iULIKIW6kBAAAFJJmHzD4AAG8NwP_-sIAAAU-443_w120_h120_c1_t0.png",
+      "desc": "旅游百货"
+    }, {
+      "id": "0010",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/97/DA/Cii-TFhvBHiIWtIQAAAD8MUG7VcAAGNiAP_-_QAAAQM018_w120_h120_c1_t0.png",
+      "desc": "更多"
+    }, {
+      "id": "0010",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/97/DA/Cii-TFhvBHiIWtIQAAAD8MUG7VcAAGNiAP_-_QAAAQM018_w120_h120_c1_t0.png",
+      "desc": "更多"
+    }, {
+      "id": "0009",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/F3/1C/Cii-T1iULIKIW6kBAAAFJJmHzD4AAG8NwP_-sIAAAU-443_w120_h120_c1_t0.png",
+      "desc": "旅游百货"
+    }, {
+      "id": "0008",
+      "imgUrl": "https://m4.tuniucdn.com/fb2/t1/G5/M00/B5/4B/Cii-tFrMg4CINw_XAAAFOVqbjXkAAFafgP_-qYAAAVa328_w120_h120_c1_t0.png",
+      "desc": "当季热玩"
+    }, {
+      "id": "0007",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G1/M00/56/7D/Cii9EViFfe2IVXYOAAAJ0Vcji84AAHIGQP_9XMAAAqN711_w120_h120_c1_t0.png",
+      "desc": "海岛游"
+    }, {
+      "id": "0006",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G1/M00/84/64/Cii-U1ir_DyIWjOQAAAMzJwlIzUAAHmAQP_8xsAAAzl573_w120_h120_c1_t0.png",
+      "desc": "蜜月游"
+    }, {
+      "id": "0005",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G1/M00/56/A5/Cii-U1iFo6eIaZs0AAAGZNY4WVMAAHINQP_-V8AAAah882_w120_h120_c1_t0.png",
+      "desc": "目的地大全"
+    }, {
+      "id": "0004",
+      "imgUrl": "https://m3.tuniucdn.com/fb2/t1/G4/M00/2B/43/Cii_J1myMKOIa59DAAAEk3iRAL8AAA1twP_-1UAAASr274_w120_h120_c1_t0.png",
+      "desc": "主题游"
+    }, {
+      "id": "0003",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/32/38/Cii_Llli3baIed2wAAACgMRu23IAADA0wP__WgAAAKY669_w120_h120_c1_t0.png",
+      "desc": "婚纱旅拍"
+    }, {
+      "id": "0002",
+      "imgUrl": "https://m3.tuniucdn.com/fb2/t1/G5/M00/BA/32/Cii-slrQDBuIDwW6AAAHDbmII-4AAFiJQJLm-kAAAcl406_w120_h120_c1_t0.png",
+      "desc": "一日游"
+    }, {
+      "id": "0001",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G2/M00/94/A9/Cii-T1hmH2yIURNDAAAJyfc0kUYAAGMPAP_79EAAAnh702_w120_h120_c1_t0.png",
+      "desc": "全球WiFi"
+    }],
+    "headline":[{
+      "id":"0001",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G2/M00/8E/10/Cii-Tlhke0CIZsjgAAAG-7_VR_EAAGIBwP_-NwAAAck318_w60_h60_c1_t0.png",
+      "desc":"【攻略】大自然的鬼斧神工，张家界"
+    },{
+      "id":"0002",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G2/M00/B9/B0/Cii-TFh0phGIZMEVAAACrQCO9JgAAGmNAP__SQAAALc481_w60_h60_c1_t0.png",
+      "desc":"[促销]缤纷夏日 暑价不停 任你挑"
+    },{
+      "id":"0003",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G2/M00/E6/75/Cii-T1iJn2iIQJ_pAAADF5OW0y0AAG6hQP__MoAAAM2182_w60_h60_c1_t0.png",
+      "desc":"七夕有你，最高双人减1314"
+    },{
+      "id":"0004",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G2/M00/73/9B/Cii-TFhbOluIU-xeAABCn0mKJdEAAF3GQNTnlgAAEK3424_w60_h60_c1_t0.png",
+      "desc":"邮轮避暑凉一夏 最高减1500元"
+    }],
+    "navBlock":[{
+      "id":"0001",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/53/6F/Cii9EFcDd0qIPS2IAAAF-rHwWggAAC5FQP_-esAAAYV994_w40_h40_c1_t0.png",
+      "desc":"首页"
+    },{
+      "id":"0002",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/21/AD/Cii9EVdqPHOIRjmCAAADPTulXSgAAGqBwP__KsAAANV269_w40_h40_c1_t0.png",
+      "desc":"目的地"
+    },{
+      "id":"0003",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/5B/97/Cii9EVcDd0iIMAPfAAAIR6kT7NIAAC8EgP_93gAAAiI537_w40_h40_c1_t0.png",
+      "desc":"出境游"
+    },{
+      "id":"0004",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/53/6F/Cii9EFcDd0qIPS2IAAAF-rHwWggAAC5FQP_-esAAAYV994_w40_h40_c1_t0.png",
+      "desc":"首页"
+    },{
+      "id":"0005",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/21/AD/Cii9EVdqPHOIRjmCAAADPTulXSgAAGqBwP__KsAAANV269_w40_h40_c1_t0.png",
+      "desc":"目的地"
+    },{
+      "id":"0006",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/5B/97/Cii9EVcDd0iIMAPfAAAIR6kT7NIAAC8EgP_93gAAAiI537_w40_h40_c1_t0.png",
+      "desc":"出境游"
+    },{
+      "id":"0007",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/53/6F/Cii9EFcDd0qIPS2IAAAF-rHwWggAAC5FQP_-esAAAYV994_w40_h40_c1_t0.png",
+      "desc":"首页"
+    },{
+      "id":"0008",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/21/AD/Cii9EVdqPHOIRjmCAAADPTulXSgAAGqBwP__KsAAANV269_w40_h40_c1_t0.png",
+      "desc":"目的地"
+    },{
+      "id":"0009",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/5B/97/Cii9EVcDd0iIMAPfAAAIR6kT7NIAAC8EgP_93gAAAiI537_w40_h40_c1_t0.png",
+      "desc":"出境游"
+    },{
+      "id":"0010",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/53/6F/Cii9EFcDd0qIPS2IAAAF-rHwWggAAC5FQP_-esAAAYV994_w40_h40_c1_t0.png",
+      "desc":"首页"
+    },{
+      "id":"0011",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/21/AD/Cii9EVdqPHOIRjmCAAADPTulXSgAAGqBwP__KsAAANV269_w40_h40_c1_t0.png",
+      "desc":"目的地"
+    },{
+      "id":"0012",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/5B/97/Cii9EVcDd0iIMAPfAAAIR6kT7NIAAC8EgP_93gAAAiI537_w40_h40_c1_t0.png",
+      "desc":"出境游"
+    },{
+      "id":"0013",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/53/6F/Cii9EFcDd0qIPS2IAAAF-rHwWggAAC5FQP_-esAAAYV994_w40_h40_c1_t0.png",
+      "desc":"首页"
+    },{
+      "id":"0014",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/21/AD/Cii9EVdqPHOIRjmCAAADPTulXSgAAGqBwP__KsAAANV269_w40_h40_c1_t0.png",
+      "desc":"目的地"
+    },{
+      "id":"0015",
+      "imgUrl":"https://m.tuniucdn.com/fb2/t1/G1/M00/5B/97/Cii9EVcDd0iIMAPfAAAIR6kT7NIAAC8EgP_93gAAAiI537_w40_h40_c1_t0.png",
+      "desc":"出境游"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "https://m.tuniucdn.com/filebroker/cdn/prd/1a/e6/1ae6be62681defea03dcb99e07afae0f_w800_h0_c0_t0.bmp",
+      "title": "马尔代夫尼亚玛岛Niyama5晚7日自由行",
+      "desc": "海底酒吧，私人管家，儿童乐园，现代时尚，可升级途牛贵宾礼遇，第1晚马累",
+      "price": 15811,
+      "count": 1316,
+      "satisfy": 94,
+      "discount":350
+    }, {
+      "id": "0002",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G5/M00/19/32/Cii-s1o5wtGIJM7tAARHK_7sJ1oAABCKgM11KkABEdD829_w800_h0_c0_t0.jpg",
+      "title": "云南-丽江-玉龙雪山-香格里拉-大理-昆明双飞7日游",
+      "desc": "纯玩0购物/丽江进昆明出/不走回头路，柔软丽江，澎湃虎跳峡，浪漫洱海吉普车旅拍，住宿轻奢",
+      "price": 3677,
+      "count": 63,
+      "satisfy": 96,
+      "discount":300
+    }, {
+      "id": "0003",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/4E/87/Cii_JVlxtJ6IJXATAE4-po1Qhw8AAEiswOeovoATj6-547_w800_h0_c0_t0.jpg",
+      "title": "香港-澳门3日游",
+      "desc": "2成人1张上网电话卡，广州上车，黄大仙祈福，登太平山顶观海景，夜游维港，特别安排一日自由活动，港澳全景观光",
+      "price": 799,
+      "count": 128,
+      "satisfy": 100,
+      "discount":400
+    }, {
+      "id": "0004",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/10/7F/Cii_LllLeSeIRiZAAD0VVwz58LIAABQvgLFPosAPRVv838_w800_h0_c0_t0.jpg",
+      "title": "港澳3日游",
+      "desc": "广州出发，纯玩0购物，米其林推荐餐厅大荣华，乘太平山缆车，访古迹钟楼，天星小轮，外观中环摩天轮，葡国风味餐，市区近地铁口酒店",
+      "price": 1686,
+      "count": 16,
+      "satisfy": 100,
+      "discount":450
+    }, {
+      "id": "0005",
+      "imgUrl": "https://m.tuniucdn.com/filebroker/cdn/res/6c/ff/6cff7575ca41819f71861b54f4bbb960_w800_h0_c0_t0.jpg",
+      "title": "澳门喜来登金沙城中心大酒店连住2晚预订",
+      "desc": "路氹金光大道 吃住游玩都方便",
+      "price": 859,
+      "count": 11,
+      "satisfy": 100,
+      "discount":120
+    }, {
+      "id": "0006",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G5/M00/02/84/Cii-tFocxyWAC4LhAWeh72GFqxA438_w800_h0_c0_t0.jpg",
+      "title": "华东五市-苏州园林-杭州-乌镇双飞5日游",
+      "desc": "深度纯玩0购物，国际五星酒店，西栅精品客栈，5道风味正餐，万人出游，连续5年高销量",
+      "price": 2680,
+      "count": 19000,
+      "satisfy": 98,
+      "discount":385
+    },{
+      "id": "0007",
+      "imgUrl": "https://m.tuniucdn.com/filebroker/cdn/prd/1a/e6/1ae6be62681defea03dcb99e07afae0f_w800_h0_c0_t0.bmp",
+      "title": "马尔代夫尼亚玛岛Niyama5晚7日自由行",
+      "desc": "海底酒吧，私人管家，儿童乐园，现代时尚，可升级途牛贵宾礼遇，第1晚马累",
+      "price": 15811,
+      "count": 1316,
+      "satisfy": 94,
+      "discount":350
+    }, {
+      "id": "0008",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G5/M00/19/32/Cii-s1o5wtGIJM7tAARHK_7sJ1oAABCKgM11KkABEdD829_w800_h0_c0_t0.jpg",
+      "title": "云南-丽江-玉龙雪山-香格里拉-大理-昆明双飞7日游",
+      "desc": "纯玩0购物/丽江进昆明出/不走回头路，柔软丽江，澎湃虎跳峡，浪漫洱海吉普车旅拍，住宿轻奢",
+      "price": 3677,
+      "count": 63,
+      "satisfy": 96,
+      "discount":300
+    }, {
+      "id": "0009",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/4E/87/Cii_JVlxtJ6IJXATAE4-po1Qhw8AAEiswOeovoATj6-547_w800_h0_c0_t0.jpg",
+      "title": "香港-澳门3日游",
+      "desc": "2成人1张上网电话卡，广州上车，黄大仙祈福，登太平山顶观海景，夜游维港，特别安排一日自由活动，港澳全景观光",
+      "price": 799,
+      "count": 128,
+      "satisfy": 100,
+      "discount":400
+    }, {
+      "id": "0010",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/10/7F/Cii_LllLeSeIRiZAAD0VVwz58LIAABQvgLFPosAPRVv838_w800_h0_c0_t0.jpg",
+      "title": "港澳3日游",
+      "desc": "广州出发，纯玩0购物，米其林推荐餐厅大荣华，乘太平山缆车，访古迹钟楼，天星小轮，外观中环摩天轮，葡国风味餐，市区近地铁口酒店",
+      "price": 1686,
+      "count": 16,
+      "satisfy": 100,
+      "discount":450
+    }, {
+      "id": "0011",
+      "imgUrl": "https://m.tuniucdn.com/filebroker/cdn/res/6c/ff/6cff7575ca41819f71861b54f4bbb960_w800_h0_c0_t0.jpg",
+      "title": "澳门喜来登金沙城中心大酒店连住2晚预订",
+      "desc": "路氹金光大道 吃住游玩都方便",
+      "price": 859,
+      "count": 11,
+      "satisfy": 100,
+      "discount":120
+    }, {
+      "id": "0012",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G5/M00/02/84/Cii-tFocxyWAC4LhAWeh72GFqxA438_w800_h0_c0_t0.jpg",
+      "title": "华东五市-苏州园林-杭州-乌镇双飞5日游",
+      "desc": "深度纯玩0购物，国际五星酒店，西栅精品客栈，5道风味正餐，万人出游，连续5年高销量",
+      "price": 2680,
+      "count": 19000,
+      "satisfy": 98,
+      "discount":385
+    },{
+      "id": "0013",
+      "imgUrl": "https://m.tuniucdn.com/filebroker/cdn/prd/1a/e6/1ae6be62681defea03dcb99e07afae0f_w800_h0_c0_t0.bmp",
+      "title": "马尔代夫尼亚玛岛Niyama5晚7日自由行",
+      "desc": "海底酒吧，私人管家，儿童乐园，现代时尚，可升级途牛贵宾礼遇，第1晚马累",
+      "price": 15811,
+      "count": 1316,
+      "satisfy": 94,
+      "discount":350
+    }, {
+      "id": "0014",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G5/M00/19/32/Cii-s1o5wtGIJM7tAARHK_7sJ1oAABCKgM11KkABEdD829_w800_h0_c0_t0.jpg",
+      "title": "云南-丽江-玉龙雪山-香格里拉-大理-昆明双飞7日游",
+      "desc": "纯玩0购物/丽江进昆明出/不走回头路，柔软丽江，澎湃虎跳峡，浪漫洱海吉普车旅拍，住宿轻奢",
+      "price": 3677,
+      "count": 63,
+      "satisfy": 96,
+      "discount":300
+    }, {
+      "id": "0015",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/4E/87/Cii_JVlxtJ6IJXATAE4-po1Qhw8AAEiswOeovoATj6-547_w800_h0_c0_t0.jpg",
+      "title": "香港-澳门3日游",
+      "desc": "2成人1张上网电话卡，广州上车，黄大仙祈福，登太平山顶观海景，夜游维港，特别安排一日自由活动，港澳全景观光",
+      "price": 799,
+      "count": 128,
+      "satisfy": 100,
+      "discount":400
+    }, {
+      "id": "0016",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G3/M00/10/7F/Cii_LllLeSeIRiZAAD0VVwz58LIAABQvgLFPosAPRVv838_w800_h0_c0_t0.jpg",
+      "title": "港澳3日游",
+      "desc": "广州出发，纯玩0购物，米其林推荐餐厅大荣华，乘太平山缆车，访古迹钟楼，天星小轮，外观中环摩天轮，葡国风味餐，市区近地铁口酒店",
+      "price": 1686,
+      "count": 16,
+      "satisfy": 100,
+      "discount":450
+    }, {
+      "id": "0017",
+      "imgUrl": "https://m.tuniucdn.com/filebroker/cdn/res/6c/ff/6cff7575ca41819f71861b54f4bbb960_w800_h0_c0_t0.jpg",
+      "title": "澳门喜来登金沙城中心大酒店连住2晚预订",
+      "desc": "路氹金光大道 吃住游玩都方便",
+      "price": 859,
+      "count": 11,
+      "satisfy": 100,
+      "discount":120
+    }, {
+      "id": "0018",
+      "imgUrl": "https://m.tuniucdn.com/fb2/t1/G5/M00/02/84/Cii-tFocxyWAC4LhAWeh72GFqxA438_w800_h0_c0_t0.jpg",
+      "title": "华东五市-苏州园林-杭州-乌镇双飞5日游",
+      "desc": "深度纯玩0购物，国际五星酒店，西栅精品客栈，5道风味正餐，万人出游，连续5年高销量",
+      "price": 2680,
+      "count": 19000,
+      "satisfy": 98,
+      "discount":385
+    }]
+  }
+}
