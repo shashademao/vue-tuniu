@@ -1,21 +1,5 @@
-# vue-tuniu
+<h2>项目展示</h2>
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/shashademao/vue-tuniu/blob/master/screenshot/%E4%B8%BB%E9%A1%B5.gif)
+![image](https://github.com/shashademao/vue-tuniu/blob/master/screenshot/%E5%9F%8E%E5%B8%82.gif)
+![image](https://github.com/shashademao/vue-tuniu/blob/master/screenshot/%E8%B4%AD%E4%B9%B0.gif)
